@@ -1,3 +1,3 @@
-module github.com/nikitavoloboev/go-exp
+module github.com/nikitavoloboev/go
 
 go 1.15
