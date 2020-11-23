@@ -14,10 +14,10 @@ For example: `go get -u github.com/nikitavoloboev/go/cmd/savelink` will install 
 
 ## Contributing
 
-Check [contributing.md](contributing.md) instructions for how to run the project and how to contribute.
+See [contribution guidelines](contributing.md).
 
-## Thanks
+## Thank you
 
-Support this project on [GitHub](https://github.com/sponsors/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects).
+You can support me on [GitHub](https://github.com/sponsors/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects).
 
 [![MIT](https://bit.ly/mitbadge)](license) [![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)
